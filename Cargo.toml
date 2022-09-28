@@ -1,0 +1,11 @@
+[package]
+name = "liovr-vcodec"
+version = "0.1.0"
+edition = "2021"
+authors = ["sceext <sceext@foxmail.com>"]
+license = "LGPL-3.0-or-later"
+repository = "https://github.com/liovr/liovr-vcodec"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
